@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: #B0228C;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.half-width img{
+    width:80%;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: #B0228C;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+}
