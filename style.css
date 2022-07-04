@@ -5,23 +5,30 @@ body{
 h1{
     font-size: 50px;
 }
+p{
+    
+}
 .name{
-    color: #B0228C;
+    color:#ff3a88;
 }
 section{
-    display: flex;
+   height: 500px;
+   padding-bottom: 150px;
+
 }
 .half-width{
-    width: 50%;
-    padding-left: 10%;
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
     padding-top: 5%;
 }
 .half-width img{
-    width:80%;
+    width:100%;
 }
 .link-btn{
     text-decoration: none;
-    background-color: #B0228C;
+    background-color: #6a4bdb;
     padding: 10px 40px;
     color: white;
     border-radius: 5px;
@@ -29,4 +36,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
 }

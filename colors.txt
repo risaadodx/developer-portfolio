@@ -1,3 +1,3 @@
-primary:   B0228C
-secondary: EA3788
-dark :	361134
+primary:   #ff3a88
+secondary: #fa6e5a
+dark :	#6a4bdb
